@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138587180881",
+    "project_id": "selflearn-ff088",
+    "storage_bucket": "selflearn-ff088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138587180881:android:21e0b9bc1bdaac9f1c4d70",
+        "android_client_info": {
+          "package_name": "com.selflearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138587180881-4i79457fgk791tooemq1183vhc4asjqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selflearn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "138587180881-nskibiaj4so51h199stn064prmt482aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfhZZKiiMcQ7Co6pgmJQ93mv-BnKLi2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138587180881-nskibiaj4so51h199stn064prmt482aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
